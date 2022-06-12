@@ -3,6 +3,7 @@ This project uses machine learning to predict the future stock price of ethereum
 
 ## Modules
 This repo uses the following modules: 
+
     yfinance - download the data
     pandas - format the data
     prophet - predict future data (the machine learning module)
